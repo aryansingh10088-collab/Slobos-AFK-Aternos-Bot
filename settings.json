@@ -2,7 +2,7 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "TERA BAAP",
-    "password": "ADMIN123",
+    "password": "123123",
     "type": "offline"
   },
   "server": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": ""
+      "password": "123"
     },
     "anti-afk": {
       "enabled": true,
