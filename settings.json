@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "PhantomSMP-dRak.aternos.me:44758",
-    "port": ,
+    "ip": "PhantomSMP-dRak.aternos.me",
+    "port": 44758,
   "version": "1.21.1",
     "try-creative": false
   },
@@ -77,7 +77,7 @@
     "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
     "events": {
       "connect": true,
-      "disconnect": true,
+      "disconnect": false,
       "chat": false
     }
   },
